@@ -1,0 +1,20 @@
+Is there supposed to be anything on the LightingBoard PCB? It looks just like the actual LightingBoard
+Are we making a general recruitment PCB without the specific information for this year, or are we just doing a specific one
+
+---On the back
+	Valkyrie's "leg" is outside of the PCB
+	The Valkyrie silkscreen goes over a lot of PTHs, just know that anywhere there's a VIA or pad, there will be no silkscreen
+	Can you make "Today Tomorrow Forever" a bit bigger (maybe to take up 75% of the horizontal width
+	Move "#Rovesohard" up a bit
+	Note that valkyries silkscreen overlaps with some of the other silkscreens on the back
+	(side note - Make sure to add the valkyrie logo into the KiCAD libraries as well)
+
+Lower-case "m" in the amrsrover email :marsrover@mst.edu"
+
+---On the front
+	Can you label the SL conenctors as Molex SL or something
+	Can you label the GPS receiver as "MTK3339"
+	Can you label the ATMEGA as "ATMEGA328-P"
+	
+The Training dates are good, We will have the location for the training determined by the time these come in, so I think we should just not mention the location, just mention the times
+	On that note though, we'll probably have the same location as last year. 
