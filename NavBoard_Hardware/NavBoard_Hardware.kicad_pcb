@@ -15207,7 +15207,7 @@
   (gr_text "Austin Christman (accxd4@mst.edu)" (at 153.035 149.86) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.3)))
   )
-  (gr_text "Brian Dahlman (bcdz6c@mst.edu), \n" (at 153.035 146.05) (layer F.SilkS)
+  (gr_text "Brian Dahlman (bdahlman@mst.edu), \n" (at 153.035 146.05) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.3)))
   )
   (gr_text "Questions? Contact marsrover@mst.edu,\n" (at 151.765 143.51) (layer F.SilkS)
